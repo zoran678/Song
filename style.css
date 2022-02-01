@@ -1,0 +1,33 @@
+.background_img
+{
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80');
+}
+.div_heading
+{
+    color: white;
+    background-color: rgb(71, 51, 145);
+    margin: 10px;
+    height: 100px;
+}
+#note{
+  color: rgb(3, 3, 22);
+  margin-bottom: 5;
+}
+.heading{
+    font-size: 23px;
+    margin-bottom: 2px;
+}#button{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    margin-top: 50px;
+    border: white solid 5px;
+    border-radius: 20x;
+}
+.songName
+{
+    margin-bottom: 5px;
+}
